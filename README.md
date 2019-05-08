@@ -2,6 +2,6 @@
 
 Hola que tal
 
-Mi segundo párrafo
+Mi **segundo** párrafo
 
 Esto es lo último, por ahora.
